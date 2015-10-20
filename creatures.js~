@@ -1,0 +1,11 @@
+function Creature(x,y,icon,iconColor,backgroudColor) {
+    this._x = x;
+    this._y = y;
+    this._icon = icon;
+    this._iconColor = iconColor;
+    this._backgroundColor = backgroudColor;
+};
+
+Creature.prototype._draw = function() {
+    Game.gameDraw(this._x, this._y, this._icon);
+};

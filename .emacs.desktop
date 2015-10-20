@@ -1,0 +1,62 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Sep 18 19:40:58 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("this.play" "pedro" "generateMa" "genera"))
+(setq register-alist nil)
+(setq file-name-history '("d:/Dropbox/Javascript/Roguelike/" "d:/Dropbox/Javascript/Roguelike/index.html" "d:/Dropbox/Javascript/Roguelike/testindex.html" "d:/Dropbox/Javascript/Roguelike/game.js" "d:/Dropbox/Javascript/Roguelike/testgame.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "d:/Dropbox/Javascript/Roguelike/game.js"
+  "game.js"
+  'js2-mode
+  '(auto-complete-mode tern-mode linum-mode)
+  1593
+  '(1599 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos)))
+
+(desktop-create-buffer 206
+  "d:/Dropbox/Javascript/Roguelike/testgame.js"
+  "testgame.js"
+  'js2-mode
+  '(auto-complete-mode tern-mode)
+  4011
+  '(4302 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos)))
+
+(desktop-create-buffer 206
+  "d:/Dropbox/Javascript/Roguelike/testindex.html"
+  "testindex.html"
+  'html-mode
+  nil
+  219
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/Dropbox/Javascript/Roguelike/index.html"
+  "index.html"
+  'html-mode
+  nil
+  170
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos)))
+
