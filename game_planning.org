@@ -1,6 +1,0 @@
-* Linkkejä
-** [[http://eloquentjavascript.net/][Eloquent Javascript kirja]]
-** [[http://www-cs-students.stanford.edu/~amitp/gameprog.html][Yleisiä peleissä käytettyjä algoritmeja]]
-** [[https://developer.mozilla.org/en-US/docs/Web/CSS/Tools/ColorPicker_Tool][HTML värivalitsija]]
-** [[https://www.digitalocean.com/community/tutorials/how-to-launch-your-site-on-a-new-ubuntu-14-04-server-with-lamp-sftp-and-dns][Serverin luonnin perusteet]]
-** [[http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes][Javascript näppäimistökoodit]]
